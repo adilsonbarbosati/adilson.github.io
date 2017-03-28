@@ -1,0 +1,7 @@
+site interessantes
+
+http://placehold.it/
+
+https://fonts.google.com/
+
+http://pt-br.learnlayout.com/media-queries.html
